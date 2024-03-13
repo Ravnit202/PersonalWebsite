@@ -22,13 +22,9 @@ Throughout my career, I've had the privilege to work in environments that challe
 
 In my role at UnlockAI Inc, I lead the development of serverless applications with AWS Lambda and Python to improve system performance. I manage S3 Buckets for data storage and architect databases using DynamoDB and Postgres RDS for better data management. My work includes leading the development of a social media AI platform with Python and Vue.js, enhancing product features with APIs like OpenAI, and improving security with OAuth logins. I also work with vendors to improve our technology and reduce costs.
 
-### Software Developer (Remote), Futura Best Investments LLC, Dubai UAE (January 2023 — September 2023)
-
-As a developer at Futura Best Investments LLC, I transitioned from part-time to full-time, focusing on developing an SEO-optimized web3 webpage using React. My responsibilities included data analysis for decision-making and optimizing Solidity smart contracts for security. I managed MongoDB databases to enhance data processes, contributing to secure and efficient software solutions.
-
 ### Software Developer (Contract), Safe Supply Streaming
 
-At Safe Supply Streaming, I independently designed and developed an Android application using Figma, Midjourney, and Flutter. I customized the Google Maps API for a unique user experience and worked directly with clients to refine the app's features and UI/UX, focusing on creating innovative solutions that meet client needs.
+At Safe Supply Streaming, I independently designed and developed an Android application using Figma, Midjourney, and Flutter. I customized the Google Maps API for a unique user experience and worked directly with clients to refine the app's features and UI/UX, focusing on creating innovative solutions that met the client's needs.
 
 ### Software Developer Intern (PEY), Thomson Reuters, Toronto ON (May 2021 — August 2022)
 
