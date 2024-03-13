@@ -1,0 +1,53 @@
+---
+title: "Ravnit Lotay"
+---
+
+# Welcome
+
+I'm Ravnit Lotay, a final year student at the University of Toronto, majoring in Geospatial Information Systems with minors in Statistics and Computer Science. Here, you'll find a brief overview of my skills and experiences in relation to my academic and professional journey.
+
+## Skills
+
+A quick glance at the tools and languages I'm proficient in:
+
+-   **Languages**: Python, Java, C#, HTML, CSS, SQL, TypeScript, JavaScript, Vue.js
+-   **Tools**: Git, Docker, Jira, AWS, Linux, Postman, Figma
+-   **Frameworks**: React, Flask, Angular, Flutter
+
+## Professional Experience
+
+Throughout my career, I've had the privilege to work in environments that challenged and enhanced my abilities:
+
+### Software Lead (Contract), UnlockAI Inc, Dubai UAE (October 2023 — Present)
+
+In my role at UnlockAI Inc, I lead the development of serverless applications with AWS Lambda and Python to improve system performance. I manage S3 Buckets for data storage and architect databases using DynamoDB and Postgres RDS for better data management. My work includes leading the development of a social media AI platform with Python and Vue.js, enhancing product features with APIs like OpenAI, and improving security with OAuth logins. I also work with vendors to improve our technology and reduce costs.
+
+### Software Developer (Remote), Futura Best Investments LLC, Dubai UAE (January 2023 — September 2023)
+
+As a developer at Futura Best Investments LLC, I transitioned from part-time to full-time, focusing on developing an SEO-optimized web3 webpage using React. My responsibilities included data analysis for decision-making and optimizing Solidity smart contracts for security. I managed MongoDB databases to enhance data processes, contributing to secure and efficient software solutions.
+
+### Software Developer (Contract), Safe Supply Streaming
+
+At Safe Supply Streaming, I independently designed and developed an Android application using Figma, Midjourney, and Flutter. I customized the Google Maps API for a unique user experience and worked directly with clients to refine the app's features and UI/UX, focusing on creating innovative solutions that meet client needs.
+
+### Software Developer Intern (PEY), Thomson Reuters, Toronto ON (May 2021 — August 2022)
+
+During my internship at Thomson Reuters, I contributed to developing a prototype UI for a new product using Angular and REST APIs, enhancing user efficiency. I was part of a team that upgraded a Calendar product from AngularJS to Angular, improving the product's stability and user experience. My tasks included QA for UI stories using Postman and manual testing, creating a connector in Alteryx for client data access, and improving endpoint efficiency by 23% with C# and Apache JMeter.
+
+## Projects
+
+-   **Game Controller & Face Filters Hackathon Project**: Led a team to develop a Python application for real-time filters and hand gesture recognition, winning first place in the advanced category of UofT’s PyJAC Hackathon.
+
+-   **Python Discord Bot (Individual Project)** I developed a Discord bot for "League of Legends" players, which was active on servers hosting over 100 members. The bot, hosted on Heroku and built with Python, provided players easy access to their statistics, information on other players, and game insights. It leveraged RIOT Games' APIs for data retrieval. To enhance its functionality, I implemented a data collection script with Pandas, processing data from the top 1% of players. Furthermore, I used TensorFlow, Scikit-learn, and Keras to create an artificial neural network (ANN) capable of predicting match outcomes based on the collected data.
+
+## Education
+
+I am set to complete my Bachelor of Science in Geographical Information Systems in April 2024 with minors in Computer Science and Statistics.
+
+## Connect With Me
+
+I am open to opportunities that challenge me and allow me to leverage my skills in software development and data analysis. Feel free to reach out at any of the following:
+
+-   **Email**: [R-lty\@outlook.com](mailto:R-lty@outlook.com)
+-   **GitHub**: [github.com/Ravnit202](https://github.com/Ravnit202)
+-   **LinkedIn**: [linkedin.com/in/ravnit-lotay-45b0a319a](https://linkedin.com/in/ravnit-lotay-45b0a319a)
